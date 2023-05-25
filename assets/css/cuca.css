@@ -1,0 +1,37 @@
+@import url(/assets/reveal/theme/fonts/source-sans-pro/source-sans-pro.css);
+
+section:not(:first-child) {
+    text-align: left;
+}
+
+section {
+    margin-top: 1.25em;
+}
+
+:root {
+    --r-link-color: #21a69b;
+    --r-link-color-dark: #1a887f;
+    --r-link-color-hover: #5bc2b9;
+    --r-selection-background-color: #21a69b;
+}
+
+
+.reveal .header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.5em;
+    width: 100vw;
+    background-color: #1a887f;
+    color: #f5f5f5;
+    font-size: 0.5em;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+.reveal .cuca-green {
+    color: #21a69b;
+}
+
+.reveal li:not(:last-child) {
+    margin-bottom: 1em;
+}
