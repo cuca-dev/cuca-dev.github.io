@@ -6,4 +6,4 @@ permalink: /members/
 
 # Membros
 
-* [Lucas Caique dos Santos Nogueira] (github.com/lucasisconfused)
+* [Lucas Caique dos Santos Nogueira] (https://github.com/lucasisconfused)
